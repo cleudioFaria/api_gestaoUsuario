@@ -1,0 +1,4 @@
+#arquivos igonorados 
+
+node_modules
+.env
